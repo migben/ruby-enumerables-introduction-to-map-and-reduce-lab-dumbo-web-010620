@@ -1,7 +1,9 @@
 # My Code here....
-def map(recode)
+def map_to_negativize(arr)
   
   result = []
+  
+  
   
   
 end
