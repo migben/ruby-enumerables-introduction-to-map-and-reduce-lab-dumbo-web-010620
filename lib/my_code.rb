@@ -4,8 +4,9 @@ def map_to_negativize(arr)
   result = []
   
   arr.each {|ele|
-    
+    result.push(ele * -1)
   }
   
+  return result
   
 end
