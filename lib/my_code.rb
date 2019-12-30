@@ -37,3 +37,23 @@ def map_to_double(arr)
   return result
   
 end
+
+
+def map_to_square(arr)
+  
+  
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
