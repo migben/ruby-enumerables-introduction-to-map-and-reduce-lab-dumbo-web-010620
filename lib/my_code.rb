@@ -17,8 +17,10 @@ def map_to_no_change(arr)
   result = []
   
   arr.each {|ele|
-    result.push()
+    result.push(ele)
     
   }
+  
+  return result
   
 end
