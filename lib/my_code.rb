@@ -52,6 +52,32 @@ def map_to_square(arr)
 end
 
 
+def reduce_to_total(arr, start)
+  
+  
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
