@@ -65,9 +65,7 @@ def reduce_to_total(arr, start = 0 ) # default val int to zero if no arg is prov
 end
 
 
-def reduce_to_all_true(arr) # default val int to zero if no arg is provided.
-  
-  result = start
+def reduce_to_all_true(arr)
   
   arr.each {|ele|
     result += ele
