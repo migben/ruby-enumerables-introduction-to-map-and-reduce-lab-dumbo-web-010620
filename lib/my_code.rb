@@ -41,6 +41,13 @@ end
 
 def map_to_square(arr)
   
+  result = []
+  
+  arr.each {|ele|
+    result.push(ele ** 2)
+  }
+  
+  return result
   
 end
 
