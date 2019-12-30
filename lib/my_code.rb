@@ -16,4 +16,9 @@ def map_to_no_change(arr)
   
   result = []
   
+  arr.each {|ele|
+    
+    
+  }
+  
 end
