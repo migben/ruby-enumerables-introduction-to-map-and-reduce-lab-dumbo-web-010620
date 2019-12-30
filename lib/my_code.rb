@@ -52,7 +52,7 @@ def map_to_square(arr)
 end
 
 
-def reduce_to_total(arr, start = 0 ) # default val int to zero if no arg is provided.
+def reduce_to_total(arr, start = 0 ) # default val int set to zero if no arg is provided.
   
   result = start
   
