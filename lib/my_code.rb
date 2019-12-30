@@ -57,9 +57,10 @@ def reduce_to_total(arr, start = 0 ) # default val int to zero if no arg is prov
   result = start
   
   arr.each {|ele|
-    result += 
+    result += ele
   }
   
+  return result
   
 end
 
