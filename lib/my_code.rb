@@ -24,3 +24,10 @@ def map_to_no_change(arr)
   return result
   
 end
+
+
+def map_to_double(arr)
+  
+  
+  
+end
