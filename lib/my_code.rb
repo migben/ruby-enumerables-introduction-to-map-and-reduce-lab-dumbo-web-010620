@@ -69,7 +69,10 @@ def reduce_to_all_true(arr)
   
   arr.each {|ele|
     if !ele
-      return 
+      return false
+    else
+      return true
+    end
   }
   
   return result
