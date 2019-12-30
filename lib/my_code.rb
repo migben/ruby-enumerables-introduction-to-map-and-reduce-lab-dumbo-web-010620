@@ -68,7 +68,8 @@ end
 def reduce_to_all_true(arr)
   
   arr.each {|ele|
-    if 
+    if !ele
+      return 
   }
   
   return result
