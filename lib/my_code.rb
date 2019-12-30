@@ -81,8 +81,11 @@ end
 def reduce_to_any_true(arr)
   
   arr.each {|ele|
-    
-    ele ? true : false
+    if ele
+      return true
+    else
+      return false
+    end
     
   }
   
